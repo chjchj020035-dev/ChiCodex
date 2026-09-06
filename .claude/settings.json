@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-fe6893b63de576792f4043fea06d9eb395e89ff3526101251f23b54d1b882077",
+    "ANTHROPIC_BASE_URL": "https://portdan.com"
+  }
+}

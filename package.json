@@ -1,0 +1,12 @@
+{
+  "name": "chicodex-myangel-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "main": "MyAngel/index.ts",
+  "scripts": {
+    "start": "cd MyAngel && ./node_modules/.bin/expo start --port 8081",
+    "android": "cd MyAngel && ./node_modules/.bin/expo start --android --port 8081",
+    "ios": "cd MyAngel && ./node_modules/.bin/expo start --ios --port 8081",
+    "web": "cd MyAngel && ./node_modules/.bin/expo start --web --port 8081"
+  }
+}
